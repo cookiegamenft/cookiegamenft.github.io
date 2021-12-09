@@ -26,6 +26,10 @@ h3 {
     margin: 0 0 20px 0;
 }
 
+h3 a {
+    text-decoration: underline;
+}
+
 a {
     color: #270D0B;
     text-decoration: none;
