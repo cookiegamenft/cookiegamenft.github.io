@@ -1,0 +1,7 @@
+{
+    "name": "Unrevealed Baker",
+    "description": "This is either a Baker or a Baking Robot, which will be revealed within 2 AVAX blocks. Stake this baker at cookie.game to bake $COOKIE!",
+    "external_url": "https://cookie.game",
+    "image": "https://cookie.game/tokens/baker/unrevealed.png",
+    "attributes": []
+}
