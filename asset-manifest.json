@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.77e2655f.chunk.css",
+    "main.js": "/static/js/main.f1cc6c6c.chunk.js",
+    "runtime-main.js": "/static/js/runtime-main.17f18270.js",
+    "static/js/2.9100a31e.chunk.js": "/static/js/2.9100a31e.chunk.js",
+    "static/js/3.a748a341.chunk.js": "/static/js/3.a748a341.chunk.js",
+    "index.html": "/index.html",
+    "static/js/2.9100a31e.chunk.js.LICENSE.txt": "/static/js/2.9100a31e.chunk.js.LICENSE.txt",
+    "static/media/SnowfieldBackground.926af9d1.png": "/static/media/SnowfieldBackground.926af9d1.png",
+    "static/media/baker1.5da205d5.png": "/static/media/baker1.5da205d5.png",
+    "static/media/baker2.d59e4056.png": "/static/media/baker2.d59e4056.png",
+    "static/media/baker3.1f77c7d9.png": "/static/media/baker3.1f77c7d9.png",
+    "static/media/cookie.3dca69dc.png": "/static/media/cookie.3dca69dc.png",
+    "static/media/discord.9a823ca6.svg": "/static/media/discord.9a823ca6.svg",
+    "static/media/metamask.45038d58.svg": "/static/media/metamask.45038d58.svg",
+    "static/media/pantry.c33a34c4.png": "/static/media/pantry.c33a34c4.png",
+    "static/media/twitter.8097ca9d.svg": "/static/media/twitter.8097ca9d.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.17f18270.js",
+    "static/js/2.9100a31e.chunk.js",
+    "static/css/main.77e2655f.chunk.css",
+    "static/js/main.f1cc6c6c.chunk.js"
+  ]
+}
