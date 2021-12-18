@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.css": "/static/css/main.77e2655f.chunk.css",
-    "main.js": "/static/js/main.b07489d9.chunk.js",
+    "main.css": "/static/css/main.d9114bbd.chunk.css",
+    "main.js": "/static/js/main.d835c6bc.chunk.js",
     "runtime-main.js": "/static/js/runtime-main.17f18270.js",
-    "static/js/2.9100a31e.chunk.js": "/static/js/2.9100a31e.chunk.js",
+    "static/js/2.b97f3967.chunk.js": "/static/js/2.b97f3967.chunk.js",
     "static/js/3.a748a341.chunk.js": "/static/js/3.a748a341.chunk.js",
     "index.html": "/index.html",
-    "static/js/2.9100a31e.chunk.js.LICENSE.txt": "/static/js/2.9100a31e.chunk.js.LICENSE.txt",
+    "static/js/2.b97f3967.chunk.js.LICENSE.txt": "/static/js/2.b97f3967.chunk.js.LICENSE.txt",
     "static/media/SnowfieldBackground.926af9d1.png": "/static/media/SnowfieldBackground.926af9d1.png",
     "static/media/baker1.5da205d5.png": "/static/media/baker1.5da205d5.png",
     "static/media/baker2.d59e4056.png": "/static/media/baker2.d59e4056.png",
@@ -19,8 +19,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.17f18270.js",
-    "static/js/2.9100a31e.chunk.js",
-    "static/css/main.77e2655f.chunk.css",
-    "static/js/main.b07489d9.chunk.js"
+    "static/js/2.b97f3967.chunk.js",
+    "static/css/main.d9114bbd.chunk.css",
+    "static/js/main.d835c6bc.chunk.js"
   ]
 }
