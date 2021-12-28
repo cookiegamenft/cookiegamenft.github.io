@@ -1,0 +1,12 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Cookies Per Minute",
+            "value": 0
+        }
+    ],
+    "description": "A trophy for the winner of Cookie Game Season 1",
+    "external_url": "https://cookie.game",
+    "image": "https://cookie.game/tokens/upgrade/12.png",
+    "name": "Golden Grandma"
+}
